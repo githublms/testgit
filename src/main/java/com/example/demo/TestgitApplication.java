@@ -9,6 +9,7 @@ public class TestgitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestgitApplication.class, args);
 		System.err.println("this is my first add data");
+		System.err.println("this is my second add data");
 	}
 
 }
