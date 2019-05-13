@@ -10,5 +10,7 @@ public class TestgitApplication {
 		SpringApplication.run(TestgitApplication.class, args);
 		System.err.println("this is my first add data");
 		System.err.println("this is my second add data，edit by githublmsdemo ,iam testing");
+		System.err.println("this is my second add data，edit by githublms ，i am is testing");
+
 	}
 }
