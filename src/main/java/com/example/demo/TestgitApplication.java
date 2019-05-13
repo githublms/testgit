@@ -11,5 +11,4 @@ public class TestgitApplication {
 		System.err.println("this is my first add data");
 		System.err.println("this is my second add data，edit by githublmsdemo ,iam testing");
 	}
-
 }
